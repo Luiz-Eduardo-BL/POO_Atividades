@@ -23,17 +23,6 @@ public class Carro {
         this.quantidade = quantidade;
     }
 
-    public int getPassageiros() {
-        return Passageiros;
-    }
-
-    public int getCombustivel() {
-        return Combustivel;
-    }
-
-    public int getQuilometragem() {
-        return Quilometragem;
-    }
 
     @Override
     public String toString() {
